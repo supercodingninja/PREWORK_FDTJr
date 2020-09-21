@@ -1,0 +1,83 @@
+body {
+    font-size: medium;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+
+}
+
+h2 {
+
+}
+
+p {
+    font-style: normal;
+    font-size: medium;
+    font-family: georgia;
+    padding-top: auto;
+    padding-bottom: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.hr2 {
+    color: red;
+}
+  
+.hr3 {
+    color: blue;
+}
+  
+.hr4 {
+    color: green;
+}
+
+.BIG {
+    font-size: x-large;
+}
+
+.tiny {
+    font-size: x-small;
+}
+
+.cen {
+    text-align: center;
+}
+
+.b {
+    font-weight: bold;
+}
+
+.ffc {
+    font-family: fantasy;
+    font-style: italic;
+}
+
+p .BIG {
+    font-size: xx-large;
+}
+
+p .orng {
+    color: orange;
+}
+
+p .b {
+    font-weight: bold;
+}
+
+/* I'm having difficulty here*/
+p .styledFont {
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+    color: saddlebrown;
+}
+
+/* I'm having difficulty here*/
+p .styledImage {
+    border: mediumseagreen;
+}   
